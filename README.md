@@ -1,4 +1,6 @@
 Demo Project: https://dentalcareplatform.azurewebsites.net/
+
+Deployed By Tú and Hòa
  
  Hướng dẫn sử dụng trước khi dùng Database (Update Version 16) 🚀
 ===
